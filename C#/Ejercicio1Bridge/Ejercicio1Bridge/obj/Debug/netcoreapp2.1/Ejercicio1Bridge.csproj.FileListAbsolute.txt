@@ -1,0 +1,11 @@
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio1\C#\Ejercicio1Bridge\Ejercicio1Bridge\bin\Debug\netcoreapp2.1\Ejercicio1Bridge.deps.json
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio1\C#\Ejercicio1Bridge\Ejercicio1Bridge\bin\Debug\netcoreapp2.1\Ejercicio1Bridge.runtimeconfig.json
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio1\C#\Ejercicio1Bridge\Ejercicio1Bridge\bin\Debug\netcoreapp2.1\Ejercicio1Bridge.runtimeconfig.dev.json
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio1\C#\Ejercicio1Bridge\Ejercicio1Bridge\bin\Debug\netcoreapp2.1\Ejercicio1Bridge.dll
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio1\C#\Ejercicio1Bridge\Ejercicio1Bridge\bin\Debug\netcoreapp2.1\Ejercicio1Bridge.pdb
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio1\C#\Ejercicio1Bridge\Ejercicio1Bridge\obj\Debug\netcoreapp2.1\Ejercicio1Bridge.csproj.CoreCompileInputs.cache
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio1\C#\Ejercicio1Bridge\Ejercicio1Bridge\obj\Debug\netcoreapp2.1\Ejercicio1Bridge.AssemblyInfoInputs.cache
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio1\C#\Ejercicio1Bridge\Ejercicio1Bridge\obj\Debug\netcoreapp2.1\Ejercicio1Bridge.AssemblyInfo.cs
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio1\C#\Ejercicio1Bridge\Ejercicio1Bridge\obj\Debug\netcoreapp2.1\Ejercicio1Bridge.dll
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio1\C#\Ejercicio1Bridge\Ejercicio1Bridge\obj\Debug\netcoreapp2.1\Ejercicio1Bridge.pdb
+D:\UMSA\8vo Semestre\INF-328\1er parcial\Ejercicio1\C#\Ejercicio1Bridge\Ejercicio1Bridge\obj\Debug\netcoreapp2.1\Ejercicio1Bridge.csprojAssemblyReference.cache
